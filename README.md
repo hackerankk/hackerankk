@@ -1,6 +1,4 @@
-Here's a more personalized GitHub bio for you:
-
-"👋 Hi, I'm Vikas 
+"👋 Hi, I'm Vikas.
 🌐 Aspiring Full-Stack Developer 
  🚀 Diving into HTML, CSS, JavaScript, and beyond 
 💡 Learning every day, building the future one line of code at a time"
